@@ -6,5 +6,8 @@ carril: "noche"
 carril_label: "Cosas de la noche"
 moraleja: "no pasa nada por tener miedo a algo, incluso si se supone que no deberíamos."
 excerpt: "La lechuza que, precisamente, tenía miedo a la oscuridad."
+duration_iso: "PT8M10S"
+duration_human: "8:10"
+publish_date: "2026-11-03"
 ---
 <p>Lulú es una lechuza, un ave de la noche... pero tiene un secreto: le da miedo la oscuridad. Avergonzada por algo que a nadie más le pasa, Lulú tendrá que aprender que cada uno tiene sus propios miedos, y que no hay nada de malo en sentirlos.</p>

@@ -6,5 +6,8 @@ carril: "animal"
 carril_label: "Animales con un problema"
 moraleja: "decir la verdad, aunque dé miedo, siempre quita un peso de encima."
 excerpt: "La gatita que rompió el jarrón de la abuela y lo escondió."
+duration_iso: "PT8M1S"
+duration_human: "8:01"
+publish_date: "2026-10-16"
 ---
 <p>Lola, una gatita muy curiosa, rompe sin querer el jarrón favorito de su abuela Pura mientras juega donde no debía. Asustada, decide esconder lo ocurrido... pero el secreto empieza a pesarle cada vez más, hasta que descubre que contar la verdad es mucho más ligero que cargar con una mentira.</p>

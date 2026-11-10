@@ -1,0 +1,36 @@
+---
+layout: default
+title: "Cuentos Infantiles de Animales | Cuentovejas"
+description: "Cuentos infantiles de animales en español: erizos, elefantes, luciérnagas y mucho más. Historias cortas con una pequeña enseñanza, para niños de 4 a 8 años."
+permalink: /cuentos-de-animales.html
+---
+<section class="hero">
+  <div class="wrap">
+    <div class="hero-text">
+      <h1>Cuentos infantiles de animales</h1>
+      <p>Animales con un problema muy humano: un erizo que no puede abrazar, un elefante que guarda un enfado, una mofeta que quiere oler a flores... Cuentos de animales para niños, con una enseñanza que surge sola, sin sermones.</p>
+    </div>
+    <div class="hero-img">
+      <img src="{{ '/assets/img/borlita-bostezo.jpg' | relative_url }}" alt="Borlita, la ovejita con sueño">
+    </div>
+  </div>
+</section>
+<section>
+  <div class="wrap">
+    <div class="grid">
+      {% assign animales = site.posts | where_exp: "p", "p.carril == 'animal'" %}
+      {% for post in animales %}
+      <a class="card" href="{{ post.url | relative_url }}">
+        <div class="thumb">
+          <span class="badge">{{ post.carril_label }}</span>
+          <img src="https://i.ytimg.com/vi/{{ post.youtube_id }}/hqdefault.jpg" alt="{{ post.title }}" loading="lazy">
+        </div>
+        <div class="body">
+          <h3>{{ post.subtitulo }}</h3>
+          <p>{{ post.excerpt }}</p>
+        </div>
+      </a>
+      {% endfor %}
+    </div>
+  </div>
+</section>

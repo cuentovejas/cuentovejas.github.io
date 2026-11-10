@@ -1,0 +1,36 @@
+---
+layout: default
+title: "Capitán Bigotes · Cuentos de Piratas para Niños | Cuentovejas"
+description: "Las aventuras del Capitán Bigotes, el niño pirata, y su amiga la sirena Nerea. Cuentos de piratas para niños, un episodio nuevo cada semana."
+permalink: /capitan-bigotes.html
+---
+<section class="hero">
+  <div class="wrap">
+    <div class="hero-text">
+      <h1>El Capitán Bigotes</h1>
+      <p>Las aventuras de Bigotes, un niño que sueña con ser el mejor pirata de los mares, con la ayuda de su amiga la sirena Nerea y su fiel perro Bizcocho. Un episodio nuevo cada semana.</p>
+    </div>
+    <div class="hero-img">
+      <img src="{{ '/assets/img/borlita-ritual.jpg' | relative_url }}" alt="Cuentovejas">
+    </div>
+  </div>
+</section>
+<section>
+  <div class="wrap">
+    <div class="grid">
+      {% assign piratas = site.posts | where_exp: "p", "p.carril == 'pirata'" %}
+      {% for post in piratas %}
+      <a class="card" href="{{ post.url | relative_url }}">
+        <div class="thumb">
+          <span class="badge">{{ post.carril_label }}</span>
+          <img src="https://i.ytimg.com/vi/{{ post.youtube_id }}/hqdefault.jpg" alt="{{ post.title }}" loading="lazy">
+        </div>
+        <div class="body">
+          <h3>{{ post.subtitulo }}</h3>
+          <p>{{ post.excerpt }}</p>
+        </div>
+      </a>
+      {% endfor %}
+    </div>
+  </div>
+</section>

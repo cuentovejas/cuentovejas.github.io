@@ -6,5 +6,8 @@ carril: "noche"
 carril_label: "Cosas de la noche"
 moraleja: "a veces un pequeño contratiempo, por raro que parezca, también se puede resolver con cariño y paciencia."
 excerpt: "El cuento con el que nació Cuentovejas."
+duration_iso: "PT7M42S"
+duration_human: "7:42"
+publish_date: "2026-10-01"
 ---
 <p>Una noche, Lunita descubre que tiene hipo y no consigue brillar tranquila en el cielo. Mientras sus hipos sobresaltan a todo el bosque, sus amigos intentan ayudarla con remedios tan disparatados como cariñosos, hasta encontrar la forma de calmarla.</p><p>Un cuento tierno y con mucho humor sobre pedir ayuda y sobre cómo hasta los problemas más raros tienen solución si no se afrontan solos.</p>

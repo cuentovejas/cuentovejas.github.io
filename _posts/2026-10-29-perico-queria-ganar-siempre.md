@@ -6,5 +6,8 @@ carril: "animal"
 carril_label: "Animales con un problema"
 moraleja: "perder también se puede disfrutar, y celebrar a quien gana dice mucho de lo buena persona que eres."
 excerpt: "El burrito de granja que no soportaba perder una carrera."
+duration_iso: "PT8M5S"
+duration_human: "8:05"
+publish_date: "2026-10-29"
 ---
 <p>Perico, un burrito de granja, solo es feliz cuando gana. Cuando por fin pierde una carrera, se enfada muchísimo... hasta que aprende que celebrar la victoria de un amigo puede ser tan bonito como ganar.</p>

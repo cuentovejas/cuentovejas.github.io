@@ -1,11 +1,35 @@
 ---
 layout: default
 ---
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "VideoObject",
+  "name": {{ page.title | jsonify }},
+  "description": {{ page.excerpt | jsonify }},
+  "thumbnailUrl": "https://i.ytimg.com/vi/{{ page.youtube_id }}/hqdefault.jpg",
+  "uploadDate": "{{ page.publish_date }}",
+  "duration": "{{ page.duration_iso }}",
+  "embedUrl": "https://www.youtube-nocookie.com/embed/{{ page.youtube_id }}",
+  "contentUrl": "https://www.youtube.com/watch?v={{ page.youtube_id }}",
+  "publisher": {
+    "@type": "Organization",
+    "name": "Cuentovejas",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "{{ '/assets/img/avatar.png' | absolute_url }}"
+    }
+  }
+}
+</script>
 <section class="cuento-head">
   <div class="wrap">
     {% if page.carril_label %}<span class="carril-tag">{{ page.carril_label }}</span>{% endif %}
     <h1>{{ page.title }}</h1>
     {% if page.subtitulo %}<p>{{ page.subtitulo }}</p>{% endif %}
+    <div class="meta-row">
+      {% if page.duration_human %}<span class="carril-tag" style="background:var(--amarillo)">⏱ {{ page.duration_human }} min</span>{% endif %}
+    </div>
   </div>
 </section>
 
@@ -28,6 +52,25 @@ layout: default
     {{ content }}
     <p>Todos nuestros cuentos son educativos, siempre para que los niñ@s aprendan algo, y puedan descubrir junto a sus padres la enseñanza que transmite cada cuento. Cuentos para dormir, narrados en español de España, pensados para los más pequeños de la casa.</p>
   </div>
+
+  {% assign relacionados = site.posts | where_exp: "p", "p.carril == page.carril" | where_exp: "p", "p.url != page.url" | sample: 3 %}
+  {% if relacionados.size > 0 %}
+  <h2 class="section-title" style="margin-top:50px">Más cuentos de {{ page.carril_label | downcase }}</h2>
+  <div class="grid">
+    {% for post in relacionados %}
+    <a class="card" href="{{ post.url | relative_url }}">
+      <div class="thumb">
+        <span class="badge">{{ post.carril_label }}</span>
+        <img src="https://i.ytimg.com/vi/{{ post.youtube_id }}/hqdefault.jpg" alt="{{ post.title }}" loading="lazy">
+      </div>
+      <div class="body">
+        <h3>{{ post.subtitulo }}</h3>
+        <p>{{ post.excerpt }}</p>
+      </div>
+    </a>
+    {% endfor %}
+  </div>
+  {% endif %}
 
   <p style="text-align:center;margin:40px 0">
     <a class="btn" href="{{ site.youtube_channel }}" target="_blank" rel="noopener">▶ Ver más cuentos en YouTube</a>

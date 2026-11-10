@@ -6,5 +6,8 @@ carril: "animal"
 carril_label: "Animales con un problema"
 moraleja: "aceptarnos tal y como somos es el primer paso para ser felices de verdad."
 excerpt: "Olivia, la mofeta que quería oler a flores."
+duration_iso: "PT7M35S"
+duration_human: "7:35"
+publish_date: "2026-10-14"
 ---
 <p>Olivia es una mofeta a la que le encantaría oler a flores, como sus amigas la ardilla Candela o el cervatillo Cosme. Avergonzada de su propio olor, prueba todo tipo de trucos disparatados hasta descubrir, de la mano de la sabia Doña Aurelia, que no hay nada que cambiar en ella.</p>

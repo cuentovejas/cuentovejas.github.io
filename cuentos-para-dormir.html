@@ -1,0 +1,70 @@
+---
+layout: default
+title: "Cuentos para Dormir en Español | Cuentovejas"
+description: "Cuentos para dormir en español de España, cortos y tranquilos, para niños de 4 a 8 años. Nuevo cuento para dormir cada semana en Cuentovejas."
+permalink: /cuentos-para-dormir.html
+---
+<section class="hero">
+  <div class="wrap">
+    <div class="hero-text">
+      <h1>Cuentos para dormir en español</h1>
+      <p>Una colección de cuentos para dormir, cortos (entre 7 y 9 minutos), narrados con calma en español de España. Perfectos para el ritual de antes de dormir de niños y niñas de 4 a 8 años.</p>
+    </div>
+    <div class="hero-img">
+      <img src="{{ '/assets/img/borlita-final.jpg' | relative_url }}" alt="Borlita, la ovejita con sueño, apagando el farolillo">
+    </div>
+  </div>
+</section>
+
+<section>
+  <div class="wrap">
+    <p>En Cuentovejas creamos un cuento para dormir nuevo cada semana: historias cortas, tranquilas y con un final sereno, pensadas para acompañar el momento de meterse en la cama. Cada cuento es una historia distinta e independiente —con sus propios personajes y su propio conflicto— y, al terminar, Borlita cierra siempre el vídeo contando ovejas mientras la luz se va apagando poco a poco.</p>
+    <p>Aquí tienes todos nuestros cuentos para dormir en español, ordenados del más reciente al más antiguo:</p>
+    <div class="grid">
+      {% for post in site.posts %}
+      <a class="card" href="{{ post.url | relative_url }}">
+        <div class="thumb">
+          <span class="badge">{{ post.carril_label }}</span>
+          <img src="https://i.ytimg.com/vi/{{ post.youtube_id }}/hqdefault.jpg" alt="{{ post.title }}" loading="lazy">
+        </div>
+        <div class="body">
+          <h3>{{ post.subtitulo }}</h3>
+          <p>{{ post.excerpt }}</p>
+        </div>
+      </a>
+      {% endfor %}
+    </div>
+  </div>
+</section>
+
+<section style="background:#fff">
+  <div class="wrap">
+    <h2 class="section-title">Preguntas frecuentes</h2>
+    <div itemscope itemtype="https://schema.org/FAQPage">
+      <div itemscope itemprop="mainEntity" itemtype="https://schema.org/Question" style="margin-bottom:22px">
+        <h3 itemprop="name">¿A partir de qué edad se pueden ver los cuentos para dormir de Cuentovejas?</h3>
+        <div itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+          <div itemprop="text"><p>Nuestros cuentos están pensados principalmente para niños y niñas de 4 a 8 años, aunque muchas familias con hijos más pequeños o más mayores también los disfrutan como parte de su rutina antes de dormir.</p></div>
+        </div>
+      </div>
+      <div itemscope itemprop="mainEntity" itemtype="https://schema.org/Question" style="margin-bottom:22px">
+        <h3 itemprop="name">¿Cuánto duran los cuentos para dormir?</h3>
+        <div itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+          <div itemprop="text"><p>La mayoría de nuestros cuentos duran entre 7 y 9 minutos, la duración ideal para un ritual de antes de dormir sin alargarse demasiado. También tenemos recopilaciones de varios cuentos seguidos para noches más largas.</p></div>
+        </div>
+      </div>
+      <div itemscope itemprop="mainEntity" itemtype="https://schema.org/Question" style="margin-bottom:22px">
+        <h3 itemprop="name">¿Los cuentos están en español de España?</h3>
+        <div itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+          <div itemprop="text"><p>Sí, todos los cuentos de Cuentovejas están escritos y narrados en español de España, con vocabulario y expresiones naturales para que suenen cercanos a las familias españolas.</p></div>
+        </div>
+      </div>
+      <div itemscope itemprop="mainEntity" itemtype="https://schema.org/Question">
+        <h3 itemprop="name">¿Con qué frecuencia sacáis cuentos nuevos?</h3>
+        <div itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+          <div itemprop="text"><p>Publicamos un cuento nuevo cada semana en nuestro canal de YouTube, alternando cuentos de animales, historias de la noche, mundos fantásticos y cuentos clásicos.</p></div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>

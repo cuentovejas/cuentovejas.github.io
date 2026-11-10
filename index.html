@@ -1,8 +1,18 @@
 ---
 layout: default
-title: "Cuentovejas · Cuentos para Dormir en Español de España"
+title: "Cuentos para Dormir en Español de España"
 description: "Cuentos infantiles originales en español de España, narrados en voz real para que los más pequeños se duerman tranquilos. Nuevos cuentos para dormir cada semana."
 ---
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Organization",
+  "name": "Cuentovejas",
+  "url": "{{ site.url }}/",
+  "logo": "{{ '/assets/img/logo-horizontal.png' | absolute_url }}",
+  "sameAs": ["{{ site.youtube_channel | split: '?' | first }}"]
+}
+</script>
 
 <section class="hero">
   <div class="wrap">
