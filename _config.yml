@@ -1,0 +1,25 @@
+title: "Cuentovejas · Cuentos para Dormir"
+description: "Cuentos infantiles en español de España, narrados en voz real, para que los peques se duerman tranquilos. Pijama, cuento y a dormir."
+url: "https://cuentovejas.github.io"
+baseurl: ""
+lang: es_ES
+author: Cuentovejas
+youtube_channel: "https://www.youtube.com/@cuentovejasyt"
+
+markdown: kramdown
+permalink: /cuentos/:title/
+
+defaults:
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: cuento
+
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-seo-tag
+
+exclude:
+  - README.md

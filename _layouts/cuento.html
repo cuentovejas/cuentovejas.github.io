@@ -1,0 +1,36 @@
+---
+layout: default
+---
+<section class="cuento-head">
+  <div class="wrap">
+    {% if page.carril_label %}<span class="carril-tag">{{ page.carril_label }}</span>{% endif %}
+    <h1>{{ page.title }}</h1>
+    {% if page.subtitulo %}<p>{{ page.subtitulo }}</p>{% endif %}
+  </div>
+</section>
+
+<div class="wrap">
+  <div class="cuento-video">
+    <iframe src="https://www.youtube-nocookie.com/embed/{{ page.youtube_id }}"
+      title="{{ page.title }}" loading="lazy"
+      allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+      allowfullscreen></iframe>
+  </div>
+
+  {% if page.moraleja %}
+  <div class="moraleja-box">
+    💛 La enseñanza de este cuento: {{ page.moraleja }}
+  </div>
+  {% endif %}
+
+  <div class="transcript">
+    <h2>De qué trata «{{ page.title }}»</h2>
+    {{ content }}
+    <p>Todos nuestros cuentos son educativos, siempre para que los niñ@s aprendan algo, y puedan descubrir junto a sus padres la enseñanza que transmite cada cuento. Cuentos para dormir, narrados en español de España, pensados para los más pequeños de la casa.</p>
+  </div>
+
+  <p style="text-align:center;margin:40px 0">
+    <a class="btn" href="{{ site.youtube_channel }}" target="_blank" rel="noopener">▶ Ver más cuentos en YouTube</a>
+    <a class="btn secondary" href="{{ '/cuentos.html' | relative_url }}">Todos los cuentos</a>
+  </p>
+</div>

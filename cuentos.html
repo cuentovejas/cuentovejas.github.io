@@ -1,0 +1,26 @@
+---
+layout: default
+title: "Todos los cuentos para dormir | Cuentovejas"
+description: "Todos los cuentos infantiles de Cuentovejas: cuentos de animales, cuentos clásicos, cuentos de la noche y mundos fantásticos, en español de España."
+permalink: /cuentos.html
+---
+<section>
+  <div class="wrap">
+    <h2 class="section-title">Todos los cuentos para dormir</h2>
+    <p class="section-sub">{{ site.posts.size }} cuentos infantiles en español de España, y uno nuevo cada semana</p>
+    <div class="grid">
+      {% for post in site.posts %}
+      <a class="card" href="{{ post.url | relative_url }}">
+        <div class="thumb">
+          <span class="badge">{{ post.carril_label }}</span>
+          <img src="https://i.ytimg.com/vi/{{ post.youtube_id }}/hqdefault.jpg" alt="{{ post.title }}" loading="lazy">
+        </div>
+        <div class="body">
+          <h3>{{ post.subtitulo }}</h3>
+          <p>{{ post.excerpt }}</p>
+        </div>
+      </a>
+      {% endfor %}
+    </div>
+  </div>
+</section>
