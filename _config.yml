@@ -4,7 +4,7 @@ url: "https://cuentovejas.github.io"
 baseurl: ""
 lang: es_ES
 author: Cuentovejas
-youtube_channel: "https://www.youtube.com/@cuentovejasyt"
+youtube_channel: "https://www.youtube.com/@CuentovejasHistoriasparadormir?sub_confirmation=1"
 
 markdown: kramdown
 permalink: /cuentos/:title/
