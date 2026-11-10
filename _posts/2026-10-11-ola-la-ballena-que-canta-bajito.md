@@ -2,6 +2,7 @@
 title: "La ballena que canta TAN BAJITO que nadie la oye 🐋 Cuento para dormir"
 subtitulo: "Ola, la ballena jorobada de voz muy pequeña."
 youtube_id: "4bB0l0S0lb8"
+image: "https://i.ytimg.com/vi/4bB0l0S0lb8/hqdefault.jpg"
 carril: "fantasia"
 carril_label: "Mundos fantásticos"
 moraleja: "no hace falta hablar fuerte para que te escuchen; a veces solo hay que encontrar el momento adecuado."

@@ -2,6 +2,7 @@
 title: "Tobías, el pulpo con OCHO tareas antes de dormir 🐙 Cuento infantil"
 subtitulo: "Ocho brazos, ocho tareas antes de ir a la cama."
 youtube_id: "z9k_8vU84Ug"
+image: "https://i.ytimg.com/vi/z9k_8vU84Ug/hqdefault.jpg"
 carril: "animal"
 carril_label: "Animales con un problema"
 moraleja: "organizarse y hacer las cosas con calma, una por una, hace que todo sea mucho más fácil."

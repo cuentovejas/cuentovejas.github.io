@@ -2,6 +2,7 @@
 title: "Nico oye RUIDOS en la noche 🦊 Cuento para dormir sobre el miedo a la oscuridad"
 subtitulo: "El zorrito que descubrió de dónde venían los ruidos."
 youtube_id: "zxIE8YX_678"
+image: "https://i.ytimg.com/vi/zxIE8YX_678/hqdefault.jpg"
 carril: "noche"
 carril_label: "Cosas de la noche"
 moraleja: "la mayoría de los miedos de la noche desaparecen en cuanto nos atrevemos a mirarlos de cerca."

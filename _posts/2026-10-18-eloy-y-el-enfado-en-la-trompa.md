@@ -2,6 +2,7 @@
 title: "Eloy, el elefante que guardaba un enfado en la trompa | Cuento infantil"
 subtitulo: "El elefante que no sabía qué hacer con su enfado."
 youtube_id: "Nj_IwgwgUHQ"
+image: "https://i.ytimg.com/vi/Nj_IwgwgUHQ/hqdefault.jpg"
 carril: "animal"
 carril_label: "Animales con un problema"
 moraleja: "guardar un enfado dentro solo lo hace más pesado; hablar de lo que sentimos nos alivia."

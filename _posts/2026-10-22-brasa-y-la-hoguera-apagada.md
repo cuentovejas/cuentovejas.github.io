@@ -2,6 +2,7 @@
 title: "Brasa y la hoguera que se apagó 🔥Cuento para dormir en español #CuentosInfantiles #CuentosEnEspañol"
 subtitulo: "La dragoncita que cuidaba la hoguera del pueblo de los gnomos."
 youtube_id: "H_DbKnfe_Fk"
+image: "https://i.ytimg.com/vi/H_DbKnfe_Fk/hqdefault.jpg"
 carril: "fantasia"
 carril_label: "Mundos fantásticos"
 moraleja: "cuidar de los demás también significa saber pedir ayuda cuando algo se nos escapa de las manos."

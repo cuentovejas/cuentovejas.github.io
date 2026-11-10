@@ -2,6 +2,7 @@
 title: "Lucho, la luciérnaga que se quedó sin luz 🌙 Cuentos en español de España para dormir | Cuentovejas"
 subtitulo: "La luciérnaga a la que se le apagó la luz."
 youtube_id: "VQF6AVqkr-0"
+image: "https://i.ytimg.com/vi/VQF6AVqkr-0/hqdefault.jpg"
 carril: "noche"
 carril_label: "Cosas de la noche"
 moraleja: "pedir ayuda no es fallar, es de valientes."

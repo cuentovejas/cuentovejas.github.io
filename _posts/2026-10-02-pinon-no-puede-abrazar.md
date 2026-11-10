@@ -2,6 +2,7 @@
 title: "Piñón NO PUEDE abrazar 🦔 Cuento para dormir sobre el erizo con púas"
 subtitulo: "El erizo que no podía abrazar por sus púas."
 youtube_id: "4P-E0k0zIDw"
+image: "https://i.ytimg.com/vi/4P-E0k0zIDw/hqdefault.jpg"
 carril: "animal"
 carril_label: "Animales con un problema"
 moraleja: "lo que nos hace diferentes no tiene por qué separarnos de los demás; siempre hay una forma de demostrar cariño."

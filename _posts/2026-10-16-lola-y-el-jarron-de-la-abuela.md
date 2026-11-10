@@ -2,6 +2,7 @@
 title: "Lola y el jarrón de la abuela | Cuentos en español de España"
 subtitulo: "La gatita que rompió el jarrón de la abuela y lo escondió."
 youtube_id: "-uYkQ_vn1R8"
+image: "https://i.ytimg.com/vi/-uYkQ_vn1R8/hqdefault.jpg"
 carril: "animal"
 carril_label: "Animales con un problema"
 moraleja: "decir la verdad, aunque dé miedo, siempre quita un peso de encima."

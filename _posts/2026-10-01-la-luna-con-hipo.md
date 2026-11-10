@@ -2,6 +2,7 @@
 title: "¡La Luna tiene HIPO! 🌙 Cuento para dormir en español"
 subtitulo: "El cuento con el que nació Cuentovejas."
 youtube_id: "dZoML3f9GyE"
+image: "https://i.ytimg.com/vi/dZoML3f9GyE/hqdefault.jpg"
 carril: "noche"
 carril_label: "Cosas de la noche"
 moraleja: "a veces un pequeño contratiempo, por raro que parezca, también se puede resolver con cariño y paciencia."

@@ -2,6 +2,7 @@
 title: "Caperucita Roja le contó TODO al lobo 🐺 | Cuento para dormir"
 subtitulo: "El cuento clásico de Caperucita Roja, contado como siempre."
 youtube_id: "qYkvearJtvE"
+image: "https://i.ytimg.com/vi/qYkvearJtvE/hqdefault.jpg"
 carril: "clasico"
 carril_label: "Cuentos clásicos"
 moraleja: "escuchar los consejos de quienes nos quieren nos mantiene a salvo."

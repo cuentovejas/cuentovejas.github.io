@@ -2,6 +2,7 @@
 title: "El cartero que reparte SUEÑOS 🐻 Cuento mágico para dormir"
 subtitulo: "Valentín, el oso cartero del Bosque de los Sueños."
 youtube_id: "IvoKRJV8w94"
+image: "https://i.ytimg.com/vi/IvoKRJV8w94/hqdefault.jpg"
 carril: "fantasia"
 carril_label: "Mundos fantásticos"
 moraleja: "fijarse en quien nadie ve es una de las formas más bonitas de hacer feliz a los demás."

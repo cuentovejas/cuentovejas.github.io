@@ -2,6 +2,7 @@
 title: "¿Quién se lleva los calcetines? 🔍 Martina investiga | Cuento para dormir #cuentosinfantiles"
 subtitulo: "El misterio del calcetín que desaparecía."
 youtube_id: "PFTbLoknkD8"
+image: "https://i.ytimg.com/vi/PFTbLoknkD8/hqdefault.jpg"
 carril: "ninos"
 carril_label: "Niños y misterios"
 moraleja: "antes de acusar a alguien, siempre hay que preguntar y escuchar."

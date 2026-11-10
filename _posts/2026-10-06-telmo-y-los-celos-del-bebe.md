@@ -2,6 +2,7 @@
 title: "Celos del bebé 🦡 Telmo, y el amor verdadero de mamá"
 subtitulo: "¿Y a mí quién me quiere ahora?"
 youtube_id: "fLvne0mb8rA"
+image: "https://i.ytimg.com/vi/fLvne0mb8rA/hqdefault.jpg"
 carril: "animal"
 carril_label: "Animales con un problema"
 moraleja: "los padres quieren a todos sus hijos por igual, y los hermanos mayores son siempre un ejemplo para los pequeños."

@@ -2,6 +2,7 @@
 title: "Cuento infantil de piratas para niños | El Capitán Bigotes y la niebla del faro apagado"
 subtitulo: "Segunda aventura de la serie Capitán Bigotes."
 youtube_id: "S0S0NXBjhzE"
+image: "https://i.ytimg.com/vi/S0S0NXBjhzE/hqdefault.jpg"
 carril: "pirata"
 carril_label: "Capitán Bigotes"
 moraleja: "la valentía también consiste en seguir adelante aunque no se vea con claridad el camino."

@@ -2,6 +2,7 @@
 title: "Cuento infantil de piratas para niños | El Capitán Bigotes, el niño pirata que tenía miedo al agua"
 subtitulo: "Primera aventura de la serie Capitán Bigotes."
 youtube_id: "1AlUOweVMWU"
+image: "https://i.ytimg.com/vi/1AlUOweVMWU/hqdefault.jpg"
 carril: "pirata"
 carril_label: "Capitán Bigotes"
 moraleja: "los miedos se superan poco a poco, con ayuda de quien nos quiere."

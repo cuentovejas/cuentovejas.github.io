@@ -2,6 +2,7 @@
 title: "3 Cuentos para Dormir - 24 Minutos de Calma y Magia  🌙  | Cuentovejas #cuentosespaña #cuentosespañol"
 subtitulo: "Recopilación: Eloy, Lola y Tilín."
 youtube_id: "JOp5P5Wgpyo"
+image: "https://i.ytimg.com/vi/JOp5P5Wgpyo/hqdefault.jpg"
 carril: "recopilacion"
 carril_label: "Recopilación"
 moraleja: "tres cuentos distintos, tres enseñanzas distintas, para una noche entera de calma."

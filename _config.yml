@@ -9,7 +9,14 @@ youtube_channel: "https://www.youtube.com/@CuentovejasHistoriasparadormir?sub_co
 markdown: kramdown
 permalink: /cuentos/:title/
 
+twitter:
+  card: summary_large_image
+
 defaults:
+  - scope:
+      path: ""
+    values:
+      image: "/assets/img/hero-prado.jpg"
   - scope:
       path: ""
       type: posts

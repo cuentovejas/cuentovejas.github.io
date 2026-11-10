@@ -2,6 +2,7 @@
 title: "Una mofeta que quiere oler a FLORES 🦨 APRENDER A ACEPTARSE COMO SOMOS"
 subtitulo: "Olivia, la mofeta que quería oler a flores."
 youtube_id: "bDePRhw-cNU"
+image: "https://i.ytimg.com/vi/bDePRhw-cNU/hqdefault.jpg"
 carril: "animal"
 carril_label: "Animales con un problema"
 moraleja: "aceptarnos tal y como somos es el primer paso para ser felices de verdad."

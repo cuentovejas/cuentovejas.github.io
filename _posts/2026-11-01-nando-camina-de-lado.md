@@ -2,6 +2,7 @@
 title: "Cuento infantil de animales para niños | Nando, el cangrejo que caminaba de lado #cuentosinfantiles"
 subtitulo: "El cangrejo al que se burlaban por caminar de lado."
 youtube_id: "BVtx-8j-fEI"
+image: "https://i.ytimg.com/vi/BVtx-8j-fEI/hqdefault.jpg"
 carril: "animal"
 carril_label: "Animales con un problema"
 moraleja: "cada uno tiene su propia forma de avanzar, y eso no la hace peor que las demás."

@@ -2,6 +2,7 @@
 title: "3 Cuentos para Dormir Vol. 2 - 24 Minutos de Calma y Magia 🌙 | Cuentovejas"
 subtitulo: "Recopilación: Perico, Brasa y Lucho."
 youtube_id: "CK0fwy6wQkI"
+image: "https://i.ytimg.com/vi/CK0fwy6wQkI/hqdefault.jpg"
 carril: "recopilacion"
 carril_label: "Recopilación"
 moraleja: "tres historias más, tres enseñanzas más, para seguir durmiendo con calma y magia."

@@ -2,6 +2,7 @@
 title: "Tilín, el grillo que aprendió a escuchar Cuentos para dormir en español de España"
 subtitulo: "El grillo que quería dirigir la orquesta de la noche."
 youtube_id: "WHlXkM0UcIQ"
+image: "https://i.ytimg.com/vi/WHlXkM0UcIQ/hqdefault.jpg"
 carril: "noche"
 carril_label: "Cosas de la noche"
 moraleja: "para dirigir o guiar a los demás, primero hay que aprender a escucharlos."

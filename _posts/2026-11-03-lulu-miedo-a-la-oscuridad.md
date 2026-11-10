@@ -2,6 +2,7 @@
 title: "Cuento para dormir. La lechuza con MIEDO a la oscuridad 🦉 Lulú (sí, una lechuza)"
 subtitulo: "La lechuza que, precisamente, tenía miedo a la oscuridad."
 youtube_id: "xLh13rJbAdc"
+image: "https://i.ytimg.com/vi/xLh13rJbAdc/hqdefault.jpg"
 carril: "noche"
 carril_label: "Cosas de la noche"
 moraleja: "no pasa nada por tener miedo a algo, incluso si se supone que no deberíamos."
