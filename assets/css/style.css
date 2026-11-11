@@ -14,6 +14,7 @@
 
 *{box-sizing:border-box}
 html{scroll-behavior:smooth}
+html,body{overflow-x:hidden;max-width:100%}
 body{
   margin:0;
   font-family:'Nunito',sans-serif;
@@ -38,7 +39,7 @@ img{max-width:100%;display:block}
 .brand-link{display:flex;align-items:center;gap:10px;text-decoration:none}
 .brand-link img{height:38px;width:auto}
 .brand-link span{color:var(--crema);font-size:1.3rem;font-weight:600}
-nav.main-nav{display:flex;gap:22px;align-items:center}
+nav.main-nav{display:flex;gap:22px;align-items:center;flex-wrap:wrap;justify-content:flex-end}
 nav.main-nav a{color:var(--crema);text-decoration:none;font-weight:600;font-size:.98rem;opacity:.9}
 nav.main-nav a:hover{opacity:1;text-decoration:underline}
 .btn{
@@ -122,8 +123,16 @@ footer a:hover{text-decoration:underline}
 
 /* ---- Responsive ---- */
 @media (max-width:640px){
-  .site-header .wrap{flex-wrap:wrap}
-  nav.main-nav{gap:14px;font-size:.85rem;order:3;width:100%;justify-content:center}
+  .wrap{padding:0 16px}
+  .site-header .wrap{flex-wrap:wrap;gap:10px}
+  nav.main-nav{gap:10px 14px;font-size:.85rem;order:3;width:100%;justify-content:center}
+  nav.main-nav a{font-size:.85rem}
+  nav.main-nav a.btn{padding:8px 16px;font-size:.85rem;flex-basis:100%;text-align:center}
   .hero-text h1{font-size:1.7rem}
+  .hero .wrap{gap:24px}
+  .hero-ctas{justify-content:center}
+  .hero-ctas .btn{flex:1 1 auto;text-align:center}
   section{padding:36px 0}
+  footer .wrap{flex-direction:column;text-align:center}
+  .footer-links{justify-content:center}
 }
