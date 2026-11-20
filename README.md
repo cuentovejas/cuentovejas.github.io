@@ -1,7 +1,8 @@
 # Cuentovejas · Cuentos para Dormir
 
 Web oficial del canal de YouTube Cuentovejas. Generada con Jekyll y publicada
-con GitHub Pages en https://cuentovejas.github.io
+con GitHub Pages en https://cuentovejas.com (dominio propio registrado en IONOS,
+apuntando por DNS al repositorio `cuentovejas/cuentovejas.github.io`).
 
 ## Cómo añadir un cuento nuevo
 
