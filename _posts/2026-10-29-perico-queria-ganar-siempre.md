@@ -18,4 +18,6 @@ publish_date: "2026-10-29"
 
 <p>Sin convertirlo en una clase de valores, el cuento deja claro, a través de lo que vive Perico, que perder también se puede disfrutar, y celebrar a quien gana dice mucho de lo buena persona que eres. Es una buena oportunidad para charlar un rato con los niños sobre la historia antes de apagar la luz.</p>
 
+<p>En la granja de Perico casi todo se convierte en una carrera: quién llega antes al abrevadero, quién salta más alto la valla, quién termina antes su ración de heno. El problema no es que a Perico le guste ganar, sino que no sabe qué hacer cuando no gana, y esa es justo la parte de la historia en la que más se identifican los peques más competitivos de la casa. Un cuento pensado para hablar, después de verlo, sobre cómo se siente perder y por qué no pasa nada.</p>
+
 <p>Cuentovejas publica un cuento infantil original cada semana, siempre en español de España y siempre con una historia nueva. Si este cuento os ha gustado, podéis seguir explorando más cuentos para dormir por temas en la web: de animales, de buenas noches, de fantasía y clásicos.</p>

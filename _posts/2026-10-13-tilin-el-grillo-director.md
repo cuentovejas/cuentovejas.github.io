@@ -18,4 +18,6 @@ publish_date: "2026-10-13"
 
 <p>Sin moralejas forzadas, lo que vive Tilín de noche enseña por sí solo que para dirigir o guiar a los demás, primero hay que aprender a escucharlos. Ideal para ver justo antes de apagar la luz, cuando el ritual de buenas noches más lo necesita.</p>
 
+<p>La orquesta de grillos de Tilín no suena sola: cada noche se suman las ranas con su propio ritmo, los búhos marcando el compás más grave y las luciérnagas encendiéndose al compás de la música, formando un pequeño concierto que solo existe cuando todos tocan a la vez. La historia de Tilín sirve para hablar con los peques sobre la diferencia entre mandar y dirigir de verdad: un buen director no es el que más grita, sino el que consigue que cada uno suene en su momento. Un cuento con mucha música de fondo, ideal para quienes disfrutan los sonidos del bosque por la noche.</p>
+
 <p>En Cuentovejas creamos un cuento infantil original cada semana, siempre en español de España, con personajes y escenarios nuevos en cada historia. Si a los peques de casa les ha gustado este cuento, en la web encontraréis más cuentos para dormir ordenados por temas: cuentos de animales, cuentos de buenas noches, cuentos de fantasía y cuentos clásicos.</p>

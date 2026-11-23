@@ -18,4 +18,6 @@ publish_date: "2026-11-03"
 
 <p>Sin moralejas forzadas, lo que vive Lulú de noche enseña por sí solo que no pasa nada por tener miedo a algo, incluso si se supone que no deberíamos. Ideal para ver justo antes de apagar la luz, cuando el ritual de buenas noches más lo necesita.</p>
 
+<p>Lo curioso de Lulú es que su miedo no tiene ningún sentido para el resto del bosque: se supone que una lechuza ve perfectamente de noche y no debería temerle a la oscuridad. Por eso le cuesta tanto contarlo, hasta que descubre que otros animales nocturnos, aunque no lo parezca, también esconden sus propios miedos. Un cuento pensado para los peques a los que también les da un poco de vergüenza reconocer que algo les asusta, aunque se supone que ya son mayores para esas cosas.</p>
+
 <p>En Cuentovejas creamos un cuento infantil original cada semana, siempre en español de España, con personajes y escenarios nuevos en cada historia. Si a los peques de casa les ha gustado este cuento, en la web encontraréis más cuentos para dormir ordenados por temas: cuentos de animales, cuentos de buenas noches, cuentos de fantasía y cuentos clásicos.</p>

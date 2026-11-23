@@ -18,4 +18,6 @@ publish_date: "2026-11-17"
 
 <p>Dentro de este mundo imaginario, lo que le ocurre a Azucena deja, sin sermones, una idea sencilla: escuchar a quienes nos quieren, decir «no» con cariño y entender por qué nos piden las cosas, en vez de responder siempre que no. Un cuento con un punto de magia que a los peques les encanta comentar después, con sus propias palabras.</p>
 
+<p>El hechizo de Azucena no dura para siempre, pero mientras le dure tendrá que aprender a pedir las cosas de otra manera, ya que la palabra «no» ya no le sirve de nada. Es una forma distinta de contar algo que a muchos peques de esa edad les pasa: la etapa en la que todo se responde con un no automático, sin pararse a pensar en lo que de verdad se quiere decir. Un cuento de fantasía con un hada muy particular y una lección que los niños entienden solos, sin que nadie se la tenga que explicar.</p>
+
 <p>Cada semana publicamos en Cuentovejas un cuento infantil nuevo, narrado en español de España, con una historia y unos personajes distintos cada vez. Si esta historia os ha gustado en casa, en la web hay más cuentos para dormir agrupados por temas: animales, buenas noches, fantasía y clásicos.</p>

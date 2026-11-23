@@ -18,4 +18,6 @@ publish_date: "2026-10-22"
 
 <p>Dentro de este mundo imaginario, lo que le ocurre a Brasa deja, sin sermones, una idea sencilla: cuidar de los demás también significa saber pedir ayuda cuando algo se nos escapa de las manos. Un cuento con un punto de magia que a los peques les encanta comentar después, con sus propias palabras.</p>
 
+<p>El pueblo de gnomos donde vive Brasa depende por completo de su hoguera: con ella cocinan, se calientan y hasta se cuentan historias antes de dormir, así que cuando se apaga, el problema de Brasa es también el de todos los demás. Lo que hace que esta historia funcione no es la magia de Brasa, sino su decisión de pedir ayuda en lugar de intentar arreglarlo sola y en silencio. Un cuento de fantasía con un mensaje muy práctico sobre el valor de contar lo que nos pasa.</p>
+
 <p>Cada semana publicamos en Cuentovejas un cuento infantil nuevo, narrado en español de España, con una historia y unos personajes distintos cada vez. Si esta historia os ha gustado en casa, en la web hay más cuentos para dormir agrupados por temas: animales, buenas noches, fantasía y clásicos.</p>
