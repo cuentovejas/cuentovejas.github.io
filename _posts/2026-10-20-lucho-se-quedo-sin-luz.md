@@ -18,4 +18,6 @@ publish_date: "2026-10-20"
 
 <p>Como en todos los cuentos de Cuentovejas, la enseñanza no llega en forma de sermón: surge de lo que vive Lucho durante la noche. En este caso, el cuento enseña que pedir ayuda no es fallar, es de valientes. Es un cuento especialmente pensado para esos momentos en que apagar la luz cuesta un poco más de lo habitual.</p>
 
+<p>Ramona la rana, Tomasa la tortuga y la abuela Lumbre reaccionan cada una a su manera cuando Lucho por fin se atreve a contarles lo que le pasa, y entre las tres le ayudan a entender que la luz no se recupera a solas, sino acompañada. Un cuento pensado para esos peques a los que también les cuesta reconocer en voz alta que necesitan ayuda con algo.</p>
+
 <p>En Cuentovejas creamos un cuento infantil original cada semana, siempre en español de España, con personajes y escenarios nuevos en cada historia. Si a los peques de casa les ha gustado este cuento, en la web encontraréis más cuentos para dormir ordenados por temas: cuentos de animales, cuentos de buenas noches, cuentos de fantasía y cuentos clásicos.</p>

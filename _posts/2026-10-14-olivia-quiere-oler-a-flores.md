@@ -18,4 +18,6 @@ publish_date: "2026-10-14"
 
 <p>La historia de Olivia no termina con una lección anunciada a los niños, sino con algo que se entiende solo de ver lo que le ocurre: aceptarnos tal y como somos es el primer paso para ser felices de verdad. Es el tipo de cuento que invita, después de verlo, a hablar un momento con los peques sobre cómo se habría sentido Olivia y qué harían ellos en su lugar.</p>
 
+<p>Los trucos que prueba Olivia antes de rendirse son cada vez más disparatados, desde bañarse en pétalos hasta pedir perfume prestado, y precisamente ese empeño es lo que hace tan entrañable a este personaje. Doña Aurelia no le da la solución de golpe, sino que la acompaña hasta que la encuentra ella sola, a su manera y a su ritmo.</p>
+
 <p>Cuentovejas publica un cuento infantil original cada semana, siempre en español de España y siempre con una historia nueva. Si este cuento os ha gustado, podéis seguir explorando más cuentos para dormir por temas en la web: de animales, de buenas noches, de fantasía y clásicos.</p>
