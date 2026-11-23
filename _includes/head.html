@@ -3,4 +3,43 @@
 <link rel="icon" href="{{ '/assets/img/favicon.png' | relative_url }}">
 <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
 <meta name="google-site-verification" content="sQrYmxRDeeoLkOor4a-k-MS_zDKnw96Rf2PfC9-vvLs" />
-{% seo %}
+
+{% comment %}
+  Título corto para la etiqueta <title> (independiente del H1, que puede ser
+  largo por motivos de YouTube/CTR). Cortamos por palabra completa para no
+  partir una palabra a la mitad, y añadimos el nombre del canal.
+{% endcomment %}
+{% assign raw_title = page.title | default: site.title | strip_html %}
+{% assign raw_lower = raw_title | downcase %}
+{% if raw_lower contains "cuentovejas" or page.url == "/" %}
+  {% assign has_brand = true %}
+  {% assign max_len = 68 %}
+{% else %}
+  {% assign has_brand = false %}
+  {% assign max_len = 50 %}
+{% endif %}
+{% if raw_title.size > max_len %}
+  {% assign cut = raw_title | truncate: max_len, "" %}
+  {% assign cut_words = cut | split: " " %}
+  {% assign cut_words_size = cut_words.size | minus: 1 %}
+  {% assign short_title = cut_words | slice: 0, cut_words_size | join: " " %}
+{% else %}
+  {% assign short_title = raw_title %}
+{% endif %}
+{% assign short_title = short_title | strip %}
+{% assign last_char = short_title | slice: -1 %}
+{% if last_char == "|" or last_char == "-" or last_char == ":" or last_char == "," %}
+  {% assign new_len = short_title.size | minus: 1 %}
+  {% assign short_title = short_title | slice: 0, new_len %}
+  {% assign short_title = short_title | strip %}
+{% endif %}
+{% if has_brand %}
+<title>{{ short_title }}</title>
+{% else %}
+<title>{{ short_title }} | Cuentovejas</title>
+{% endif %}
+
+<link rel="alternate" hreflang="es-ES" href="{{ page.url | absolute_url }}">
+<link rel="alternate" hreflang="x-default" href="{{ page.url | absolute_url }}">
+
+{% seo title=false %}

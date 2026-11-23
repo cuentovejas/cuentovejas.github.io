@@ -69,12 +69,11 @@ layout: default
   <div class="transcript">
     <h2>De qué trata «{{ page.title }}»</h2>
     {{ content }}
-    <p>Todos nuestros cuentos son educativos, siempre para que los niñ@s aprendan algo, y puedan descubrir junto a sus padres la enseñanza que transmite cada cuento. Cuentos para dormir, narrados en español de España, pensados para los más pequeños de la casa.</p>
   </div>
 
   {% assign relacionados = site.posts | where_exp: "p", "p.carril == page.carril" | where_exp: "p", "p.url != page.url" | sample: 3 %}
   {% if relacionados.size > 0 %}
-  <h2 class="section-title" style="margin-top:50px">Más cuentos de {{ page.carril_label | downcase }}</h2>
+  <h3 class="section-title" style="margin-top:50px">Más cuentos de {{ page.carril_label | downcase }}</h3>
   <div class="grid">
     {% for post in relacionados %}
     <a class="card" href="{{ post.url | relative_url }}">

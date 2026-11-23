@@ -7,8 +7,15 @@ carril: "noche"
 carril_label: "Cosas de la noche"
 moraleja: "sentirse acompañado, aunque sea con un pequeño gesto, ayuda a superar los miedos de la noche."
 excerpt: "El koala que no quería dormir solo en su rama."
+description: "El koala que no quería dormir solo en su rama. Cuento para dormir en español de España: enseña que sentirse acompañado, aunque sea con un pequeño gesto."
 duration_iso: "PT8M59S"
 duration_human: "8:59"
 publish_date: "2026-11-09"
 ---
 <p>Mimo es un koala al que no le gusta nada la hora de dormir solo en su rama. Con la ayuda de mamá Aurora, la zarigüeya Pepa y el sabio Don Gus el wombat, Mimo encontrará su propia manera de sentirse acompañado cuando se apagan las luces.</p>
+
+<p>Pensado para niños de 4 a 8 años, este cuento combina narración en voz real con ilustraciones propias para que la historia se siga con facilidad incluso con los ojos ya medio cerrados. Con una duración de unos 8 minutos, es de los que caben bien en cualquier rutina de buenas noches.</p>
+
+<p>Lo que le pasa a Mimo durante la noche deja una idea clara, sin necesidad de explicarla con un sermón: sentirse acompañado, aunque sea con un pequeño gesto, ayuda a superar los miedos de la noche. Un cuento especialmente indicado para esas noches en las que cuesta un poco más apagar la luz y quedarse tranquilo.</p>
+
+<p>Cuentovejas publica un cuento infantil original cada semana, siempre en español de España y siempre con una historia nueva. Si este cuento os ha gustado, podéis seguir explorando más cuentos para dormir por temas en la web: de animales, de buenas noches, de fantasía y clásicos.</p>

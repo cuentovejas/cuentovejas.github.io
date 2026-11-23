@@ -7,8 +7,15 @@ carril: "recopilacion"
 carril_label: "Recopilación"
 moraleja: "tres historias más, tres enseñanzas más, para seguir durmiendo con calma y magia."
 excerpt: "Recopilación: Perico, Brasa y Lucho."
+description: "Recopilación: Perico, Brasa y Lucho. Cuento para dormir en español de España: enseña que tres historias más, tres enseñanzas más."
 duration_iso: "PT23M43S"
 duration_human: "23:43"
 publish_date: "2026-11-05"
 ---
 <p>Segunda recopilación de Cuentovejas: el burrito Perico y su carrera, la dragoncita Brasa y su hoguera, y la luciérnaga Lucho que se quedó sin luz. 24 minutos de calma y magia para acompañar toda la noche.</p>
+
+<p>Pensado para niños de 4 a 8 años, este cuento combina narración en voz real con ilustraciones propias para que la historia se siga con facilidad incluso con los ojos ya medio cerrados. Con una duración de unos 23 minutos, es de los que caben bien en cualquier rutina de buenas noches.</p>
+
+<p>Cada uno de los cuentos de esta recopilación es completamente independiente, con sus propios personajes y su propia historia, pero juntos dejan, sin necesidad de sermones, una idea común: tres historias más, tres enseñanzas más, para seguir durmiendo con calma y magia. Ideal para esas noches en las que da tiempo a más de una historia antes de apagar la luz.</p>
+
+<p>En Cuentovejas creamos un cuento infantil original cada semana, siempre en español de España, con personajes y escenarios nuevos en cada historia. Si a los peques de casa les ha gustado este cuento, en la web encontraréis más cuentos para dormir ordenados por temas: cuentos de animales, cuentos de buenas noches, cuentos de fantasía y cuentos clásicos.</p>
