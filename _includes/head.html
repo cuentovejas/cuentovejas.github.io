@@ -43,3 +43,11 @@
 <link rel="alternate" hreflang="x-default" href="{{ page.url | absolute_url }}">
 
 {% seo title=false %}
+
+{% comment %}
+  La versión de jekyll-seo-tag empaquetada por GitHub Pages no siempre
+  genera twitter:description. Lo añadimos a mano para asegurar la tarjeta
+  de Twitter completa en todas las páginas.
+{% endcomment %}
+{% assign tw_description = page.description | default: page.excerpt | default: site.description | strip_html %}
+<meta name="twitter:description" content="{{ tw_description | truncate: 200 | escape }}" />
