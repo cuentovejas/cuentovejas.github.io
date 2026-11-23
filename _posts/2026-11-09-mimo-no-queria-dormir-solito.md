@@ -18,4 +18,6 @@ publish_date: "2026-11-09"
 
 <p>Lo que le pasa a Mimo durante la noche deja una idea clara, sin necesidad de explicarla con un sermón: sentirse acompañado, aunque sea con un pequeño gesto, ayuda a superar los miedos de la noche. Un cuento especialmente indicado para esas noches en las que cuesta un poco más apagar la luz y quedarse tranquilo.</p>
 
+<p>A lo largo de la historia, Mimo prueba varias soluciones antes de encontrar la que de verdad le funciona: desde pedir compañía a sus amigos hasta inventarse sus propios trucos para sentirse menos solo en la rama. La zarigüeya Pepa y el sabio Don Gus el wombat aportan su propio punto de vista, cada uno a su manera, hasta que Mimo descubre que no hace falta una solución complicada, solo un pequeño gesto que le recuerde que no está solo. Un cuento pensado para las noches en las que a los peques también les cuesta separarse de la luz encendida.</p>
+
 <p>Cuentovejas publica un cuento infantil original cada semana, siempre en español de España y siempre con una historia nueva. Si este cuento os ha gustado, podéis seguir explorando más cuentos para dormir por temas en la web: de animales, de buenas noches, de fantasía y clásicos.</p>

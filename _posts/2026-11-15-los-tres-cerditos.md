@@ -18,4 +18,6 @@ publish_date: "2026-11-15"
 
 <p>Narrado respetando la trama de siempre, sin añadidos ni cambios de final, este clásico recuerda una enseñanza de toda la vida: las cosas bien hechas llevan su tiempo: con paciencia y esfuerzo salen mejor, y los hermanos se cuidan unos a otros. El mismo cuento que probablemente escuchó más de un papá o una mamá de pequeño, ahora en español de España y con voz real.</p>
 
+<p>Se mantienen los tres materiales de siempre (paja, madera y ladrillo) y el lobo que sopla y resopla ante cada puerta, además del final en el que los tres hermanos acaban a salvo juntos en la casa más resistente. Es un cuento que sirve para hablar con los peques sobre la diferencia entre hacer las cosas deprisa y hacerlas bien, y sobre por qué merece la pena tomarse su tiempo aunque los demás parezcan ir más rápido. Un clásico que nunca falla a la hora de dormir.</p>
+
 <p>Cada semana publicamos en Cuentovejas un cuento infantil nuevo, narrado en español de España, con una historia y unos personajes distintos cada vez. Si esta historia os ha gustado en casa, en la web hay más cuentos para dormir agrupados por temas: animales, buenas noches, fantasía y clásicos.</p>

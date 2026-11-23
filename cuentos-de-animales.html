@@ -17,6 +17,14 @@ permalink: /cuentos-de-animales.html
 </section>
 <section>
   <div class="wrap">
+    <h2 class="section-title">Por qué tantos cuentos de animales</h2>
+    <p>A los peques les suelen resultar especialmente cercanas las historias protagonizadas por animales: les resulta más fácil identificarse con un erizo que no puede abrazar o una mofeta que quiere oler a flores que con una moraleja explicada directamente. El problema del animal hace de espejo de algo muy humano, sin necesidad de nombrarlo.</p>
+    <p>En esta sección cabe de todo: animales domésticos y de granja, animales salvajes y marinos, algún insecto con nombre propio, e incluso animales un poco fuera de lo común. Cada uno llega con su propio problema cotidiano — los celos, la vergüenza, el enfado, el miedo a no encajar — y su propia forma de resolverlo.</p>
+    <p>No todos los cuentos del canal son de animales, pero sí son una parte importante de Cuentovejas: cada semana puede tocarle el turno a uno nuevo, con un animal y un problema distintos a los anteriores.</p>
+  </div>
+</section>
+<section>
+  <div class="wrap">
     <div class="grid">
       {% assign animales = site.posts | where_exp: "p", "p.carril == 'animal'" %}
       {% for post in animales %}

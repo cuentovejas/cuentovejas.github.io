@@ -9,7 +9,7 @@
   largo por motivos de YouTube/CTR). Cortamos por palabra completa para no
   partir una palabra a la mitad, y añadimos el nombre del canal.
 {% endcomment %}
-{% assign raw_title = page.title | default: site.title | strip_html %}
+{% assign raw_title = page.seo_title | default: page.title | default: site.title | strip_html %}
 {% assign raw_lower = raw_title | downcase %}
 {% if raw_lower contains "cuentovejas" or page.url == "/" %}
   {% assign has_brand = true %}

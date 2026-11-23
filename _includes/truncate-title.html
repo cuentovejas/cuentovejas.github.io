@@ -1,0 +1,22 @@
+{% comment %}
+  Trunca include.text a include.max caracteres por palabra completa (sin
+  cortar una palabra a la mitad) y quita puntuación suelta al final.
+  Deja el resultado en la variable global `truncated_title`.
+{% endcomment %}
+{% assign tt_raw = include.text | strip_html %}
+{% assign tt_max = include.max %}
+{% if tt_raw.size > tt_max %}
+  {% assign tt_cut = tt_raw | truncate: tt_max, "" %}
+  {% assign tt_words = tt_cut | split: " " %}
+  {% assign tt_words_size = tt_words.size | minus: 1 %}
+  {% assign truncated_title = tt_words | slice: 0, tt_words_size | join: " " %}
+{% else %}
+  {% assign truncated_title = tt_raw %}
+{% endif %}
+{% assign truncated_title = truncated_title | strip %}
+{% assign tt_last = truncated_title | slice: -1 %}
+{% if tt_last == "|" or tt_last == "-" or tt_last == ":" or tt_last == "," %}
+  {% assign tt_len = truncated_title.size | minus: 1 %}
+  {% assign truncated_title = truncated_title | slice: 0, tt_len %}
+  {% assign truncated_title = truncated_title | strip %}
+{% endif %}

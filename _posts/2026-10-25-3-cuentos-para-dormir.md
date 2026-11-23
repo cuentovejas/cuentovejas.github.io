@@ -18,4 +18,6 @@ publish_date: "2026-10-25"
 
 <p>Cada uno de los cuentos de esta recopilación es completamente independiente, con sus propios personajes y su propia historia, pero juntos dejan, sin necesidad de sermones, una idea común: tres cuentos distintos, tres enseñanzas distintas, para una noche entera de calma. Ideal para esas noches en las que da tiempo a más de una historia antes de apagar la luz.</p>
 
+<p>Esta primera recopilación reúne tres cuentos ya publicados en el canal, pensada para esas noches en las que da tiempo a algo más largo: el elefante Eloy, que no sabía qué hacer con su enfado; la gatita Lola, que escondió un jarrón roto por miedo a las consecuencias; y el grillo Tilín, que tuvo que aprender a escuchar a los demás. Tres historias y tres enseñanzas distintas, contadas una detrás de otra con la misma voz y el mismo ritmo tranquilo del resto de cuentos de Cuentovejas.</p>
+
 <p>En Cuentovejas creamos un cuento infantil original cada semana, siempre en español de España, con personajes y escenarios nuevos en cada historia. Si a los peques de casa les ha gustado este cuento, en la web encontraréis más cuentos para dormir ordenados por temas: cuentos de animales, cuentos de buenas noches, cuentos de fantasía y cuentos clásicos.</p>

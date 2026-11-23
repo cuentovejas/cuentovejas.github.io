@@ -6,8 +6,10 @@ permalink: /cuentos.html
 ---
 <section>
   <div class="wrap">
-    <h2 class="section-title">Todos los cuentos para dormir</h2>
+    <h1 class="section-title">Todos los cuentos para dormir</h1>
     <p class="section-sub">{{ site.posts.size }} cuentos infantiles en español de España, y uno nuevo cada semana</p>
+    <h2 class="section-title" style="margin-top:40px;font-size:1.1em">Cuentos organizados por tipo</h2>
+    <p class="section-sub">Si prefieres ir directo a un tipo de historia: <a href="{{ '/cuentos-de-animales.html' | relative_url }}">animales</a>, <a href="{{ '/cuentos-de-la-noche.html' | relative_url }}">buenas noches</a>, <a href="{{ '/cuentos-de-fantasia.html' | relative_url }}">fantasía</a>, <a href="{{ '/cuentos-clasicos.html' | relative_url }}">clásicos</a> o <a href="{{ '/capitan-bigotes.html' | relative_url }}">Capitán Bigotes</a>.</p>
     <div class="grid">
       {% for post in site.posts %}
       <a class="card" href="{{ post.url | relative_url }}">

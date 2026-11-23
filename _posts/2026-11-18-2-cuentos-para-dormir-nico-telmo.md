@@ -18,4 +18,6 @@ publish_date: "2026-11-18"
 
 <p>Cada uno de los cuentos de esta recopilación es completamente independiente, con sus propios personajes y su propia historia, pero juntos dejan, sin necesidad de sermones, una idea común: lo desconocido suele tener una explicación sencilla, y cuando llega un hermanito, el cariño de mamá y papá no se reparte: se multiplica. Ideal para esas noches en las que da tiempo a más de una historia antes de apagar la luz.</p>
 
+<p>Esta recopilación une dos cuentos ya publicados en el canal para una noche un poco más larga: el zorrito Nico, al que los ruidos del bosque le impedían dormir solo por primera vez, y el tejón Telmo, que tuvo que aprender a compartir el cariño de sus padres con una hermana recién llegada. Dos historias distintas, con sus propios personajes y su propio final, que comparten el mismo tono tranquilo y la misma voz narradora de siempre, pensadas para verse seguidas o por separado, según lo que pida cada noche.</p>
+
 <p>Cuentovejas publica un cuento infantil original cada semana, siempre en español de España y siempre con una historia nueva. Si este cuento os ha gustado, podéis seguir explorando más cuentos para dormir por temas en la web: de animales, de buenas noches, de fantasía y clásicos.</p>
